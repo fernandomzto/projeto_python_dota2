@@ -110,7 +110,7 @@ O fluxo de trabalho foi dividido em quatro etapas principais:
 
 Foi desenvolvido um dashboard que consolida as principais informações da análise, permitindo uma visualização interativa e filtragem por herói ou atributo primário.
 
-![Dashboard Dota 2](imagens/dashboard_dota2.jpg)
+![Dashboard Dota 2](imagens/dashboard_dota2_atualizado.jpg)
 
 ## 💡 Conclusão e Aprendizados
 
